@@ -1,8 +1,9 @@
 # 🌍 GLOBAL FAIRNESS
 
 > Time reveals the absolute truth to those masking self-interest as justice.
-> A just order is sustained only when the law is applied consistently.  
-
+> A just order is sustained only when the law is applied consistently.
+>> A question to global citizens:  
+> Are we truly equal before the law?
 ---
 
 **Keywords:** international law, global governance, accountability, transparency, war risk, financial systems, external harm, policy architecture, institutional analysis, governance framework, risk systems, conflict analysis, war responsibility, civilian harm, war reparations, armed conflict, aggression, invasion, use of force, financial speculation, war economy, power networks, institutional accountability, governance failure analysis, humanitarian impact, conflict escalation
