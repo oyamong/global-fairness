@@ -53,9 +53,6 @@ At the same time:
 ### 🌐 Global Framework
 - [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)
 
-### 📄 Policy Proposal
-- [War Policy Proposal](docs/policy/war-policy-proposal.md)
-
 ### ⚖️ Legal Analysis
 - [Hormuz Statement (Joint Statement on the Strait of Hormuz, 19 March 2026) – International Law Analysis](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
 
@@ -138,9 +135,6 @@ It records, structures, and reveals how systems actually operate.
 
 ### 🌐 글로벌 프레임워크
 - [외부 피해 평가 및 보상 프레임워크](docs/frameworks/external-harm-assessment-compensation-framework.md)
-
-### 📄 정책 제안
-- [전쟁 대응 정책 제안](docs/policy/war-policy-proposal.md)
 
 ### ⚖️ 법률 분석
 - [호르무즈 공동성명 국제법 분석](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
