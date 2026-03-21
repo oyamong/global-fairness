@@ -1,6 +1,7 @@
 # 🌍 GLOBAL FAIRNESS
 
 > Time reveals the absolute truth to those masking self-interest as justice.
+> A just order is sustained only when the law is applied consistently.  
 
 ---
 
