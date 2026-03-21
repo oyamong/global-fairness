@@ -6,7 +6,7 @@
 > Are we truly equal before the law?
 ---
 
-**Keywords:** international law, global governance, accountability, transparency, war risk, financial systems, external harm, policy architecture, institutional analysis, governance framework, risk systems, conflict analysis, war responsibility, civilian harm, war reparations, armed conflict, aggression, invasion, use of force, financial speculation, war economy, power networks, institutional accountability, governance failure analysis, humanitarian impact, conflict escalation
+**Keywords:** international law, global governance, accountability, transparency, war risk, financial systems, external harm, policy architecture, institutional analysis, governance framework, risk systems, conflict analysis, war responsibility, civilian harm, war reparations, armed conflict, aggression, invasion, use of force, financial speculation, war economy, power networks, institutional accountability, governance failure analysis, humanitarian impact, conflict escalation, Hormuz, war economy, right to life, human rights
 
 ---
 
@@ -196,9 +196,7 @@ Primary concepts:
 # 🔥 Social & Expansion Keywords (for Distribution)
 
 **EN:**  
-#GlobalAccountability #InstitutionalTransparency #WarRiskAnalysis #ExternalHarm #FinancialSystemRisk #GovernanceFailure #AccountabilityGap #GlobalGovernance #TransparencyFramework  
-#WarSystem #WarEconomy #WarProfiteering #ConflictCapitalism #PowerNetworks #EliteNetworks #InstitutionalSilence #GlobalGovernanceFailure #CivilianImpact #FinancialWarRisk #WeaponizedFinance #OpaquePower #power without responsibility #unexamined authority structures #cartel
-
+#GlobalAccountability #InstitutionalTransparency #WarRiskAnalysis #ExternalHarm #FinancialSystemRisk #GovernanceFailure #AccountabilityGap #GlobalGovernance #TransparencyFramework #harm to civilians in conflict #WarSystem #WarEconomy #WarProfiteering #ConflictCapitalism #PowerNetworks #EliteNetworks #InstitutionalSilence #GlobalGovernanceFailure #CivilianImpact #FinancialWarRisk #WeaponizedFinance #OpaquePower #power without responsibility #unexamined authority structures #cartel #Hormuz #Iran #war economy #war profiteers #speculative investment #blood money network #war as a political tool #politicization of war #self-serving politician #cowardly politician #spineless politician #opportunistic politician #politicization of the judiciary #weaponizing the judiciary #self-serving government #detached political #divisive forces #agents of division #election #transparent elections #elections as a transfer of sovereignty #unverifiable election #collusion between power and profit #civilian casualties of war #all in together 
+ 
 **KR:**  
-#글로벌책임성 #제도투명성 #전쟁리스크분석 #외부피해 #금융시스템리스크 #거버넌스실패 #책임공백 #글로벌거버넌스 #투명성프레임워크  
-#전쟁시스템 #전쟁경제 #전쟁이득 #갈등자본주의 #권력네트워크 #엘리트네트워크 #조직적침묵 #글로벌거버넌스실패 #민간인영향 #금융전쟁리스크 #무기화된금융 #불투명한권력 #책임없는 권력 #검증되지 않은 권위 구조 #카르텔 
+#글로벌책임성 #제도투명성 #전쟁리스크분석 #외부피해 #금융시스템리스크 #거버넌스실패 #책임공백 #글로벌거버넌스 #투명성프레임워크 #전쟁시스템 #전쟁경제 #전쟁이득 #민간인피해 #민간인 희생 #갈등자본주의 #권력네트워크 #엘리트네트워크 #조직적침묵 #글로벌거버넌스실패 #민간인영향 #금융전쟁리스크 #무기화된금융 #불투명한권력 #책임없는 권력 #검증되지 않은 권위 구조 #카르텔 #호르무즈 #이란 #전쟁경제 #전쟁수익자 #투기적 투자 #피의 돈 #전쟁의 정치화 #정치 도구로서의 전쟁 #기회주의 정치인 #사법의 정치화 #국민과 분리된 정치 #국민주권 무력화 #분열 조장 # 양극화 유도 #분열의 주체 #선거 #투명선거 #주권이양과 선거 #입증불가능 선거 #권력과 이익의 유착
