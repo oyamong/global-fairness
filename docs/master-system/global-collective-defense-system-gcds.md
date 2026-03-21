@@ -26,6 +26,9 @@ This system provides a structured approach to unify response and responsibility.
 - [WARM-P](../operational-systems/warm-p-maritime-logistics-stabilization.md)  
 - [External Harm Framework](../frameworks/external-harm-assessment-compensation-framework.md)
 
+
+**Keywords:** global governance, collective defense system, conflict coordination, accountability systems, risk response architecture, international security framework, institutional coordination
+
 ---
 
 # 🇰🇷 한국어 설명
