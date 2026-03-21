@@ -168,9 +168,6 @@ It records, structures, and reveals how systems actually operate.
 
 ---
 
-
-# 🇰🇷 한국어 설명
-
 ### 📊 실제 제도 참여 기록
 
 이 프로젝트는 이론이 아니라  
