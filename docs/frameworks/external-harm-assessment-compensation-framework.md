@@ -33,6 +33,8 @@ This framework provides a structured, neutral, and data-based approach to:
 - [GCDS](https://github.com/oyamong/global-fairness/blob/main/docs/master-system/global-collective-defense-system-gcds.md)  
 - [WARM-P](https://github.com/oyamong/global-fairness/blob/main/docs/operational-systems/warm-p-maritime-logistics-stabilization.md)  
 
+**Keywords:** external harm, conflict impact assessment, responsibility allocation, compensation framework, global accountability, third-state damage, economic impact of war
+
 ---
 
 # 🇰🇷 한국어 설명
