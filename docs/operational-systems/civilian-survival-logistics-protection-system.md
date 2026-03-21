@@ -33,6 +33,8 @@ This system provides a structured approach to:
 - [GCDS](https://github.com/oyamong/global-fairness/blob/main/docs/master-system/global-collective-defense-system-gcds.md)  
 - [WARM-P](https://github.com/oyamong/global-fairness/blob/main/docs/operational-systems/warm-p-maritime-logistics-stabilization.md)  
 
+**Keywords:** civilian protection, humanitarian logistics, supply chain resilience, conflict survival systems, emergency logistics, humanitarian infrastructure, crisis response systems
+
 ---
 
 # 🇰🇷 한국어 설명
