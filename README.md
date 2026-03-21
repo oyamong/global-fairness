@@ -23,6 +23,50 @@ It integrates:
 
 ---
 
+---
+
+### 📊 Documented Real-World Engagement
+
+This project is not theoretical.  
+It is based on extensive real-world institutional engagement.
+
+Documented actions include:
+
+- Over 23 constitutional complaints filed in the Republic of Korea  
+- Over 700 administrative petitions submitted to executive bodies  
+- Over 60 policy proposals and legislative inquiries submitted to the National Assembly  
+
+In addition:
+
+- Formal letters submitted to multiple embassies, including:
+  - United States Embassy  
+  - Israeli Embassy  
+  - Russian Embassy  
+
+- Policy submissions delivered to major international institutions, including:
+  - The White House  
+  - World Trade Organization (WTO)  
+  - World Bank  
+  - International Court of Justice (ICJ)  
+  - Venice Commission  
+  - United Nations (UN)  
+
+👉 Total international and institutional submissions exceed 70 documented proposals.
+
+---
+
+### ⚠️ Structural Observation
+
+Across these engagements:
+
+- responses are often absent or non-substantive  
+- accountability mechanisms are not activated  
+- institutional processes exist, but do not produce outcomes  
+
+👉 This gap between **process and outcome** is a core focus of this project.
+
+---
+
 ## What This Project Shows
 
 Across hundreds of real cases:
@@ -123,6 +167,51 @@ It records, structures, and reveals how systems actually operate.
 👉 이 프로젝트는 이러한 구조를 드러낸다.
 
 ---
+
+
+# 🇰🇷 한국어 설명
+
+### 📊 실제 제도 참여 기록
+
+이 프로젝트는 이론이 아니라  
+광범위한 실제 제도 참여를 기반으로 한다.
+
+주요 기록:
+
+- 대한민국 헌법소원 23건 이상 제기  
+- 행정부 대상 민원 700건 이상 제출  
+- 국회 대상 정책제안 및 질의 60건 이상 제출  
+
+또한:
+
+- 주요 외교기관 대상 공식 서신:
+  - 미국 대사관  
+  - 이스라엘 대사관  
+  - 러시아 대사관  
+
+- 주요 국제기구 및 기관 제출:
+  - 백악관  
+  - 세계무역기구(WTO)  
+  - 세계은행(World Bank)  
+  - 국제사법재판소(ICJ)  
+  - 베니스위원회  
+  - 유엔(UN)  
+
+👉 총 70건 이상의 국제 및 기관 대상 정책제안서 제출
+
+---
+
+### ⚠️ 구조적 관찰
+
+이 모든 과정에서 반복적으로 나타난 현상:
+
+- 실질적인 답변 부재  
+- 책임 작동 메커니즘 미작동  
+- 절차는 존재하지만 결과는 없음  
+
+👉 이 프로젝트는  
+**절차와 결과 사이의 괴리 구조**를 핵심 분석 대상으로 한다.
+
 
 ## 📦 핵심 구조
 
