@@ -23,8 +23,6 @@ It integrates:
 
 ---
 
----
-
 ### 📊 Documented Real-World Engagement
 
 This project is not theoretical.  
