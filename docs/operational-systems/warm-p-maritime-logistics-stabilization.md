@@ -33,7 +33,9 @@ WARM-P provides a structured approach to:
 ## Related Systems
 
 - [GCDS](https://github.com/oyamong/global-fairness/blob/main/docs/master-system/global-collective-defense-system-gcds.md)  
-- [External Harm Framework](https://github.com/oyamong/global-fairness/blob/main/docs/frameworks/external-harm-assessment-compensation-framework.md)  
+- [External Harm Framework](https://github.com/oyamong/global-fairness/blob/main/docs/frameworks/external-harm-assessment-compensation-framework.md)
+
+- **Keywords:** war economy, war profiteering, maritime logistics, financial war risk, asset tracking, supply chain disruption, insurance risk, war-linked finance, liquidity control
 
 ---
 
