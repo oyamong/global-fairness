@@ -188,8 +188,8 @@ Primary concepts:
 
 **EN:**  
 #GlobalAccountability #InstitutionalTransparency #WarRiskAnalysis #ExternalHarm #FinancialSystemRisk #GovernanceFailure #AccountabilityGap #GlobalGovernance #TransparencyFramework  
-#WarSystem #WarEconomy #WarProfiteering #ConflictCapitalism #PowerNetworks #EliteNetworks #InstitutionalSilence #GlobalGovernanceFailure #CivilianImpact #FinancialWarRisk #WeaponizedFinance #OpaquePower  
+#WarSystem #WarEconomy #WarProfiteering #ConflictCapitalism #PowerNetworks #EliteNetworks #InstitutionalSilence #GlobalGovernanceFailure #CivilianImpact #FinancialWarRisk #WeaponizedFinance #OpaquePower #power without responsibility #unexamined authority structures #cartel
 
 **KR:**  
 #글로벌책임성 #제도투명성 #전쟁리스크분석 #외부피해 #금융시스템리스크 #거버넌스실패 #책임공백 #글로벌거버넌스 #투명성프레임워크  
-#전쟁시스템 #전쟁경제 #전쟁이득 #갈등자본주의 #권력네트워크 #엘리트네트워크 #조직적침묵 #글로벌거버넌스실패 #민간인영향 #금융전쟁리스크 #무기화된금융 #불투명한권력
+#전쟁시스템 #전쟁경제 #전쟁이득 #갈등자본주의 #권력네트워크 #엘리트네트워크 #조직적침묵 #글로벌거버넌스실패 #민간인영향 #금융전쟁리스크 #무기화된금융 #불투명한권력 #책임없는 권력 #검증되지 않은 권위 구조 #카르텔 
