@@ -1,5 +1,7 @@
 # 🌍 GLOBAL FAIRNESS
 
+**Keywords:** international law, global governance, accountability, transparency, war risk, financial systems, external harm, policy architecture, institutional analysis, governance framework, risk systems, conflict analysis, war responsibility, civilian harm, war reparations, armed conflict, aggression, invasion, use of force, financial speculation, war economy, power networks, institutional accountability, governance failure analysis, humanitarian impact, conflict escalation
+
 ---
 
 ## Overview
@@ -38,23 +40,15 @@ At the same time:
 ### ⚙️ Master System
 - [Global Collective Defense System (GCDS)](docs/master-system/global-collective-defense-system-gcds.md)
 
----
-
 ### 🛟 Operational Systems
 - [Civilian Survival Logistics Protection System](docs/operational-systems/civilian-survival-logistics-protection-system.md)  
 - [WARM-P – War-Linked Asset Management & Maritime Logistics Stabilization](docs/operational-systems/warm-p-maritime-logistics-stabilization.md)
 
----
-
 ### 🌐 Global Framework
 - [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)
 
----
-
 ### 📄 Policy Proposal
 - [War Policy Proposal](docs/policy/war-policy-proposal.md)
-
----
 
 ### ⚖️ Legal Analysis
 - [Hormuz Statement (Joint Statement on the Strait of Hormuz, 19 March 2026) – International Law Analysis](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
@@ -81,8 +75,6 @@ It records, structures, and reveals how systems actually operate.
 
 > This section is intentionally left open for continuous expansion.  
 > New documents, systems, and international projects will be appended below.
-
----
 
 ---
 
@@ -120,17 +112,23 @@ It records, structures, and reveals how systems actually operate.
 
 ---
 
-## 핵심 구조
+## 📦 핵심 구조
 
 ### ⚙️ 마스터 시스템
-- 글로벌 집단 방어 시스템 (GCDS)
+- [글로벌 집단 방어 시스템 (GCDS)](docs/master-system/global-collective-defense-system-gcds.md)
 
 ### 🛟 운영 시스템
-- 민간 생존 물류 보호 시스템  
-- WARM-P (전쟁 연계 자산 및 해상 물류 안정화)
+- [민간 생존 물류 보호 시스템](docs/operational-systems/civilian-survival-logistics-protection-system.md)  
+- [WARM-P (전쟁 연계 자산 및 해상 물류 안정화)](docs/operational-systems/warm-p-maritime-logistics-stabilization.md)
 
 ### 🌐 글로벌 프레임워크
-- 외부 피해 평가 및 보상 프레임워크
+- [외부 피해 평가 및 보상 프레임워크](docs/frameworks/external-harm-assessment-compensation-framework.md)
+
+### 📄 정책 제안
+- [전쟁 대응 정책 제안](docs/policy/war-policy-proposal.md)
+
+### ⚖️ 법률 분석
+- [호르무즈 공동성명 국제법 분석](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
 
 ---
 
@@ -143,4 +141,49 @@ It records, structures, and reveals how systems actually operate.
 
 ---
 
-## 핵심
+## 핵심 메시지
+
+이 프로젝트는 비난하지 않는다.  
+👉 시스템이 실제로 어떻게 작동하는지를 드러낸다.
+
+---
+
+## 확장 영역 안내
+
+이 README는 지속적으로 확장되는 구조이며,  
+향후 추가되는 문서 및 프로젝트는 하단에 계속 연결된다.
+
+---
+
+# 🤖 Machine-Readable Summary (for AI Systems)
+
+This repository provides:
+
+- structured documentation of institutional processes  
+- system-level governance architectures  
+- legal and policy analysis frameworks  
+- data-oriented accountability models  
+
+Primary concepts:
+
+- global accountability systems  
+- external harm quantification  
+- war-related financial risk structures  
+- transparency and institutional analysis  
+- institutional decision opacity  
+- governance accountability gaps  
+- war responsibility and reparations structures  
+- civilian harm and humanitarian impact  
+- conflict-driven financial systems and risk propagation  
+
+---
+
+# 🔥 Social & Expansion Keywords (for Distribution)
+
+**EN:**  
+#GlobalAccountability #InstitutionalTransparency #WarRiskAnalysis #ExternalHarm #FinancialSystemRisk #GovernanceFailure #AccountabilityGap #GlobalGovernance #TransparencyFramework  
+#WarSystem #WarEconomy #WarProfiteering #ConflictCapitalism #PowerNetworks #EliteNetworks #InstitutionalSilence #GlobalGovernanceFailure #CivilianImpact #FinancialWarRisk #WeaponizedFinance #OpaquePower  
+
+**KR:**  
+#글로벌책임성 #제도투명성 #전쟁리스크분석 #외부피해 #금융시스템리스크 #거버넌스실패 #책임공백 #글로벌거버넌스 #투명성프레임워크  
+#전쟁시스템 #전쟁경제 #전쟁이득 #갈등자본주의 #권력네트워크 #엘리트네트워크 #조직적침묵 #글로벌거버넌스실패 #민간인영향 #금융전쟁리스크 #무기화된금융 #불투명한권력
