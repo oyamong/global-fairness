@@ -99,7 +99,7 @@ At the same time:
 
 #### 🌍 Hormuz Joint Statement – Institutional Record Package
 
-- [Hormuz Joint Statement – Record Memorandum on Consistency and Responsibility](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
+- [Hormuz Joint Statement – Record Memorandum on Consistency and Responsibility](docs/record-packages)
 
 ### 📄 Package Structure
 **Package Code:** [HORMUZ_CONSISTENCY_PACKAGE_V1](docs/record-packages)
@@ -270,7 +270,7 @@ It records, structures, and reveals how systems actually operate.
 
 #### 🌍 호르무즈 공동성명 – 제도 기록 패키지
 
-- [호르무즈 공동성명 – 일관성과 책임에 관한 기록 메모랜덤](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
+- [호르무즈 공동성명 – 일관성과 책임에 관한 기록 메모랜덤](docs/record-packages)
 
 ---
 
