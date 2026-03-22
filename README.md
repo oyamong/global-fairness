@@ -101,8 +101,6 @@ At the same time:
 
 - [Hormuz Joint Statement – Record Memorandum on Consistency and Responsibility](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
 
----
-
 ### 📄 Package Structure
 
 **Package Code:** HORMUZ_CONSISTENCY_PACKAGE_V1  
@@ -112,8 +110,6 @@ This package integrates:
 - Executive Summary  
 - Main Record Memorandum  
 - Annex A (machine-readable structured summary)  
-
----
 
 ### 🧠 System Role
 
@@ -125,8 +121,6 @@ This is not a legal opinion or advocacy document.
 - a consistency and responsibility tracking system  
 - a machine-readable legal dataset  
 - a future judicial and policy reference  
-
----
 
 ### 🔗 Cross-System Integration
 
@@ -143,6 +137,7 @@ This record package is structurally linked with:
 - responsibility tracking  
 - external harm quantification  
 - institutional response structuring
+  
 ---
 
 ## Why It Matters
