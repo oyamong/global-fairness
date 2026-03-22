@@ -131,7 +131,9 @@ This record package is structurally linked with:
 - [Global Collective Defense System (GCDS)](docs/master-system/global-collective-defense-system-gcds.md)  
 - [Civilian Survival Logistics Protection System](docs/operational-systems/civilian-survival-logistics-protection-system.md)  
 - [WARM-P – War-Linked Asset Management & Maritime Logistics Stabilization](docs/operational-systems/warm-p-maritime-logistics-stabilization.md)  
-- [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)  
+- [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)
+
+- [HORMUZ_CONSISTENCY_PACKAGE_V1](docs/record-packages)
 
 👉 These systems together form:
 
@@ -274,7 +276,7 @@ It records, structures, and reveals how systems actually operate.
 
 ### 📄 패키지 구조
 
-**Package Code:** [HORMUZ_CONSISTENCY_PACKAGE_V1](docs/record-packages/hormuz-consistency-package-v1.md)  
+**Package Code:** [HORMUZ_CONSISTENCY_PACKAGE_V1](docs/record-packages)
 
 구성:
 
@@ -373,7 +375,19 @@ Additional structural components:
 - escalation and causality mapping structures  
 - external harm attribution and burden distribution systems  
 - policy alternative availability tracking
-
+- multi-state joint statement consistency recording (e.g., Hormuz Joint Statement)  
+- selective legal application and omission tracking in coordinated institutional outputs  
+- responsibility attribution gaps in multi-actor geopolitical events  
+- absence of aggression determination in official statements  
+- collective statement vs individual actor responsibility divergence  
+- structured recording of non-attributed responsibility in international responses  
+- institutional silence and non-response pattern documentation across submissions  
+- escalation framing vs root-cause omission tracking  
+- external impact distribution without corresponding responsibility allocation
+- selective enforcement
+- responsibility gap
+- omission of aggression determination
+  
 ---
 
 # 🔥 Social & Expansion Keywords (for Distribution)
