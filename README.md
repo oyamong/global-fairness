@@ -102,8 +102,10 @@ At the same time:
 - [Hormuz Joint Statement – Record Memorandum on Consistency and Responsibility](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
 
 ### 📄 Package Structure
+**Package Code:** [HORMUZ_CONSISTENCY_PACKAGE_V1](docs/record-packages/hormuz-consistency-package-v1.md) 
 
-**Package Code:** HORMUZ_CONSISTENCY_PACKAGE_V1  
+👉 Full package structure and documentation available here:  
+- [Hormuz Consistency Package V1](docs/record-packages/hormuz-consistency-package-v1.md)
 
 This package integrates:
 
@@ -272,7 +274,7 @@ It records, structures, and reveals how systems actually operate.
 
 ### 📄 패키지 구조
 
-**패키지 코드:** HORMUZ_CONSISTENCY_PACKAGE_V1  
+**Package Code:** [HORMUZ_CONSISTENCY_PACKAGE_V1](docs/record-packages/hormuz-consistency-package-v1.md)  
 
 구성:
 
