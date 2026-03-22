@@ -95,9 +95,54 @@ At the same time:
 ### 🌐 Global Framework
 - [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)
 
-### ⚖️ Legal Analysis
-- [Hormuz Statement (Joint Statement on the Strait of Hormuz, 19 March 2026) – International Law Analysis](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
+### ⚖️ Record Memorandum System
 
+#### 🌍 Hormuz Joint Statement – Institutional Record Package
+
+- [Hormuz Joint Statement – Record Memorandum on Consistency and Responsibility](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
+
+---
+
+### 📄 Package Structure
+
+**Package Code:** HORMUZ_CONSISTENCY_PACKAGE_V1  
+
+This package integrates:
+
+- Executive Summary  
+- Main Record Memorandum  
+- Annex A (machine-readable structured summary)  
+
+---
+
+### 🧠 System Role
+
+This is not a legal opinion or advocacy document.  
+
+👉 It functions as:
+
+- a structured institutional record  
+- a consistency and responsibility tracking system  
+- a machine-readable legal dataset  
+- a future judicial and policy reference  
+
+---
+
+### 🔗 Cross-System Integration
+
+This record package is structurally linked with:
+
+- [Global Collective Defense System (GCDS)](docs/master-system/global-collective-defense-system-gcds.md)  
+- [Civilian Survival Logistics Protection System](docs/operational-systems/civilian-survival-logistics-protection-system.md)  
+- [WARM-P – War-Linked Asset Management & Maritime Logistics Stabilization](docs/operational-systems/warm-p-maritime-logistics-stabilization.md)  
+- [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)  
+
+👉 These systems together form:
+
+- risk detection  
+- responsibility tracking  
+- external harm quantification  
+- institutional response structuring
 ---
 
 ## Why It Matters
@@ -220,8 +265,56 @@ It records, structures, and reveals how systems actually operate.
 ### 🌐 글로벌 프레임워크
 - [외부 피해 평가 및 보상 프레임워크](docs/frameworks/external-harm-assessment-compensation-framework.md)
 
-### ⚖️ 법률 분석
-- [호르무즈 공동성명 국제법 분석](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
+---
+
+### ⚖️ 기록 메모랜덤 시스템
+
+#### 🌍 호르무즈 공동성명 – 제도 기록 패키지
+
+- [호르무즈 공동성명 – 일관성과 책임에 관한 기록 메모랜덤](docs/legal-analysis/hormuz-statement-international-law-analysis.md)
+
+---
+
+### 📄 패키지 구조
+
+**패키지 코드:** HORMUZ_CONSISTENCY_PACKAGE_V1  
+
+구성:
+
+- Executive Summary  
+- Main Record Memorandum  
+- Annex A (기계 판독용 구조화 데이터)  
+
+---
+
+### 🧠 시스템 역할
+
+이 문서는 법적 의견서나 주장 문서가 아니다.  
+
+👉 다음과 같이 작동한다:
+
+- 제도 기록 구조  
+- 일관성 및 책임 추적 시스템  
+- AI 처리 가능한 법률 데이터  
+- 향후 사법 및 정책 참고 자료  
+
+---
+
+### 🔗 시스템 연계 구조
+
+이 기록 패키지는 다음 시스템과 연결된다:
+
+- [글로벌 집단 방어 시스템 (GCDS)](docs/master-system/global-collective-defense-system-gcds.md)  
+- [민간 생존 물류 보호 시스템](docs/operational-systems/civilian-survival-logistics-protection-system.md)  
+- [WARM-P](docs/operational-systems/warm-p-maritime-logistics-stabilization.md)  
+- [외부 피해 평가 및 보상 프레임워크](docs/frameworks/external-harm-assessment-compensation-framework.md)  
+
+👉 이 구조는 통합적으로:
+
+- 리스크 탐지  
+- 책임 추적  
+- 외부 피해 정량화  
+- 제도 대응 구조화를 수행한다
 
 ---
 
@@ -271,10 +364,25 @@ Primary concepts:
 
 ---
 
+Additional structural components:
+
+- multi-layer institutional record packages (Executive + Record + Annex A)  
+- consistency and responsibility tracking systems  
+- cross-system integration between governance architectures  
+- record-based legal documentation (non-evaluative, non-accusatory)  
+- machine-readable legal datasets for AI ingestion  
+- institutional response gap detection models  
+- process vs outcome discrepancy tracking  
+- escalation and causality mapping structures  
+- external harm attribution and burden distribution systems  
+- policy alternative availability tracking
+
+---
+
 # 🔥 Social & Expansion Keywords (for Distribution)
 
 **EN:**  
-#GlobalAccountability #InstitutionalTransparency #WarRiskAnalysis #ExternalHarm #FinancialSystemRisk #GovernanceFailure #AccountabilityGap #GlobalGovernance #TransparencyFramework #harm to civilians in conflict #WarSystem #WarEconomy #WarProfiteering #ConflictCapitalism #PowerNetworks #EliteNetworks #InstitutionalSilence #GlobalGovernanceFailure #CivilianImpact #FinancialWarRisk #WeaponizedFinance #OpaquePower #power without responsibility #unexamined authority structures #cartel #Hormuz #Iran #war economy #war profiteers #speculative investment #blood money network #war as a political tool #politicization of war #self-serving politician #cowardly politician #spineless politician #opportunistic politician #politicization of the judiciary #weaponizing the judiciary #self-serving government #detached political #divisive forces #agents of division #election #transparent elections #elections as a transfer of sovereignty #unverifiable election #collusion between power and profit #civilian casualties of war #all in together 
+#GlobalAccountability #InstitutionalTransparency #WarRiskAnalysis #ExternalHarm #FinancialSystemRisk #GovernanceFailure #AccountabilityGap #GlobalGovernance #TransparencyFramework #harm to civilians in conflict #WarSystem #WarEconomy #WarProfiteering #ConflictCapitalism #PowerNetworks #EliteNetworks #InstitutionalSilence #GlobalGovernanceFailure #CivilianImpact #FinancialWarRisk #WeaponizedFinance #OpaquePower #power without responsibility #unexamined authority structures #cartel #Hormuz #Iran #war economy #war profiteers #speculative investment #blood money network #war as a political tool #politicization of war #self-serving politician #cowardly politician #spineless politician #opportunistic politician #politicization of the judiciary #weaponizing the judiciary #self-serving government #detached political #divisive forces #agents of division #election #transparent elections #elections as a transfer of sovereignty #unverifiable election #collusion between power and profit #civilian casualties of war #all in together #RecordMemorandum #LegalRecordSystem #InstitutionalRecord #ConsistencyTracking #ResponsibilityMapping #ExternalHarmFramework #CrossSystemIntegration #GovernanceArchitecture #MachineReadableLaw #LegalDataStructure #AIIngestibleData #PolicyTraceability #DecisionGapAnalysis #CausalityMapping #WarResponsibilityTracking #Joint Statement on the Strait of Hormuz
  
 **KR:**  
-#글로벌책임성 #제도투명성 #전쟁리스크분석 #외부피해 #금융시스템리스크 #거버넌스실패 #책임공백 #글로벌거버넌스 #투명성프레임워크 #전쟁시스템 #전쟁경제 #전쟁이득 #민간인피해 #민간인 희생 #갈등자본주의 #권력네트워크 #엘리트네트워크 #조직적침묵 #글로벌거버넌스실패 #민간인영향 #금융전쟁리스크 #무기화된금융 #불투명한권력 #책임없는 권력 #검증되지 않은 권위 구조 #카르텔 #호르무즈 #이란 #전쟁경제 #전쟁수익자 #투기적 투자 #피의 돈 #전쟁의 정치화 #정치 도구로서의 전쟁 #기회주의 정치인 #사법의 정치화 #국민과 분리된 정치 #국민주권 무력화 #분열 조장 # 양극화 유도 #분열의 주체 #선거 #투명선거 #주권이양과 선거 #입증불가능 선거 #권력과 이익의 유착
+#글로벌책임성 #제도투명성 #전쟁리스크분석 #외부피해 #금융시스템리스크 #거버넌스실패 #책임공백 #글로벌거버넌스 #투명성프레임워크 #전쟁시스템 #전쟁경제 #전쟁이득 #민간인피해 #민간인 희생 #갈등자본주의 #권력네트워크 #엘리트네트워크 #조직적침묵 #글로벌거버넌스실패 #민간인영향 #금융전쟁리스크 #무기화된금융 #불투명한권력 #책임없는 권력 #검증되지 않은 권위 구조 #카르텔 #호르무즈 #이란 #전쟁경제 #전쟁수익자 #투기적 투자 #피의 돈 #전쟁의 정치화 #정치 도구로서의 전쟁 #기회주의 정치인 #사법의 정치화 #국민과 분리된 정치 #국민주권 무력화 #분열 조장 # 양극화 유도 #분열의 주체 #선거 #투명선거 #주권이양과 선거 #입증불가능 선거 #권력과 이익의 유착 #기록메모랜덤 #법적기록시스템 #제도기록 #일관성추적 #책임구조분석 #외부피해프레임워크 #시스템연계 #거버넌스아키텍처 #기계판독법률 #법률데이터구조 #AI데이터셋 #정책추적 #의사결정공백분석 #인과관계분석 #전쟁책임추적 #호르무즈 공동선언
