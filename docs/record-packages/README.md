@@ -53,9 +53,11 @@ This record package consists of three integrated components:
 
 ## Related Systems
 
-- [Global Collective Defense System (GCDS)](../master-system/global-collective-defense-system-gcds.md)  
-- [WARM-P – War-Linked Asset Management & Maritime Logistics Stabilization](../operational-systems/warm-p-maritime-logistics-stabilization.md)  
-- [External Harm Assessment & Compensation Framework](../frameworks/external-harm-assessment-compensation-framework.md)  
+- [Global Collective Defense System (GCDS)](docs/master-system/global-collective-defense-system-gcds.md)  
+- [Civilian Survival Logistics Protection System](docs/operational-systems/civilian-survival-logistics-protection-system.md)  
+- [WARM-P – War-Linked Asset Management & Maritime Logistics Stabilization](docs/operational-systems/warm-p-maritime-logistics-stabilization.md)  
+- [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)
+
 
 👉 This package functions as a **case-based record node** within the broader governance system.
 
