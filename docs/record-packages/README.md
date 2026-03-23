@@ -3,6 +3,7 @@
 **Package Code:** HORMUZ_CONSISTENCY_PACKAGE_V1  
 **Type:** Record Memorandum Package  
 **Position:** Phase 1 – Multinational Joint Statement Record  
+**Followed by:** NATO_SG_RECORD_PACKAGE_V1  
 
 ---
 
@@ -67,7 +68,7 @@ This package represents:
 
 Followed by:
 
-→ **Phase 2: Institutional Speech Record (e.g., NATO Secretary General)**  
+→ **Phase 2: Institutional Speech Record (NATO Secretary General – separate package)**  
 → **Phase 3: Multinational Response Formation (future expansion)**  
 
 👉 This package is not isolated.  
@@ -102,12 +103,12 @@ This package is structurally grouped with other record packages in:
 
 - `/docs/record-packages/`
 
-Each package represents an independent institutional record, including:
+Each package represents an independent institutional record:
 
-- Hormuz Joint Statement Package (this package)  
-- NATO Secretary General Record Package (separate package)  
+- **HORMUZ_CONSISTENCY_PACKAGE_V1** (this package)  
+- **NATO_SG_RECORD_PACKAGE_V1** (separate package – institutional speech phase)  
 
-👉 Packages share the same directory but remain **logically independent**.
+👉 Packages share the same directory but remain **logically independent and event-based**.
 
 ---
 
@@ -178,7 +179,7 @@ Each package represents an independent institutional record, including:
 이 패키지는 다음 흐름의 시작점이다:
 
 → 1단계: 다국가 공동성명 기록 (현재 문서)  
-→ 2단계: 기관 발언 기록 (예: NATO 사무총장)  
+→ 2단계: NATO 사무총장 발언 기록 (별도 패키지)  
 → 3단계: 다국가 대응 형성 구조 (향후 확장)  
 
 👉 단일 문서가 아니라  
@@ -215,7 +216,7 @@ Each package represents an independent institutional record, including:
 - `/docs/record-packages/`
 
 동일 폴더 내 다른 패키지들과 함께 존재하지만,  
-각 패키지는 **논리적으로 독립된 구조**를 가진다.
+각 패키지는 **사건(event) 기반으로 독립된 구조**를 가진다.
 
 ---
 
