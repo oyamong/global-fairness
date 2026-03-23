@@ -53,7 +53,7 @@ This record package consists of three integrated components:
 
 ## Related Systems
 
-- [Global Collective Defense System (GCDS)](docs/master-system/global-collective-defense-system-gcds.md)  
+- [Global Collective Defense System (GCDS)](global-fairness/docs/master-system/global-collective-defense-system-gcds.md)  
 - [Civilian Survival Logistics Protection System](docs/operational-systems/civilian-survival-logistics-protection-system.md)  
 - [WARM-P – War-Linked Asset Management & Maritime Logistics Stabilization](docs/operational-systems/warm-p-maritime-logistics-stabilization.md)  
 - [External Harm Assessment & Compensation Framework](docs/frameworks/external-harm-assessment-compensation-framework.md)
